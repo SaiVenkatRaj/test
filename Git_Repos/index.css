@@ -1,0 +1,21 @@
+
+
+input {
+    height: 100px;
+    width: 100px;
+    border-width: 10px;
+    border-color: #2eb32e;
+    color: #2eb32e;
+    background-color: gold;
+    margin: 20px;
+    cursor: pointer;
+}
+
+button {
+    height: 100px;
+    width: 100px;
+    border-width: 5px;
+    border-color: green;
+    margin: 20px;
+}
+
